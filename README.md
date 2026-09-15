@@ -1,4 +1,4 @@
-<img width="50" height="50" alt="Primer" src="https://github.com/user-attachments/assets/3463ec16-af17-4ac7-ab51-4cd325ef0553" /><img width="50" height="50" alt="Primer" src="https://github.com/user-attachments/assets/3463ec16-af17-4ac7-ab51-4cd325ef0553" />[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hello%2C+This+is+SIImole's+official+GitHub+Account!)
+<img width="50" height="50" alt="Primer" src="https://github.com/user-attachments/assets/3463ec16-af17-4ac7-ab51-4cd325ef0553" /><img width="50" height="50" alt="Linux Tux Logo PNG Vector (EPS) Free Download" src="https://github.com/user-attachments/assets/1e8b6e5c-6e49-4a4c-b84f-fb49227a4127" />[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hello%2C+This+is+SIImole's+official+GitHub+Account!)
 ](https://git.io/typing-svg)
 <img width="500" height="236" alt="_ (1)" src="https://github.com/user-attachments/assets/401cff29-fc9a-4520-a5ae-4cbcad472e80" />
 
