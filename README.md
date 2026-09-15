@@ -1,4 +1,4 @@
-<img width="50" height="50" alt="Primer" src="https://github.com/user-attachments/assets/3463ec16-af17-4ac7-ab51-4cd325ef0553" /> <img width="50" height="50" alt="Tux(1)" src="https://github.com/user-attachments/assets/d818f672-346e-4ee9-adef-05ee9df497dd" />
+<img width="50" height="50" alt="Primer" src="https://github.com/user-attachments/assets/3463ec16-af17-4ac7-ab51-4cd325ef0553" /> <img width="50" height="50" alt="Download Avatar, Beak, Black_ Royalty-Free Vector Graphic" src="https://github.com/user-attachments/assets/65a6d401-191a-4b8c-99d6-55e2f0e77a75" />
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hello%2C+This+is+SIImole's+official+GitHub+Account!)
@@ -36,5 +36,6 @@ siimole.official@gmail.com
 
 <img width="50" height="50" alt="Primer" src="https://github.com/user-attachments/assets/3463ec16-af17-4ac7-ab51-4cd325ef0553" />
 
-<img width="50" height="50" alt="Tux(1)" src="https://github.com/user-attachments/assets/d818f672-346e-4ee9-adef-05ee9df497dd" />
+<img width="50" height="50" alt="Download Avatar, Beak, Black_ Royalty-Free Vector Graphic" src="https://github.com/user-attachments/assets/65a6d401-191a-4b8c-99d6-55e2f0e77a75" />
+
 
