@@ -12,6 +12,11 @@
 - 🦺 Any help or suggestions connected in improoving my projects are always wellcome!
 - 📫 For business inquiries, project discussions, or technical support, contact our team directly here. Our e-mail siimole.official@gmail.com. Our X/Twitter @SIImoleOFC1
 - ⚡
+#
+A bit about our Projects we are working right now
+  ST-SoftwareTool - A terminal-powered application manager for Windows. Scan, launch, pin, and organise all your installed apps from a single command-line interface, or switch to the full GUI when you need it. ST Software Tool also includes ST-VPN and ST-AntiVirus. This project is fully free. More information can be accessed by pressing this link - https://st-softwaretool.pages.dev/
+  
+
 <img width="736" height="244" alt="_ (2)" src="https://github.com/user-attachments/assets/0240d94f-5c4d-4716-a9e8-4707a42fa3f7" />
 
 Unauthorized use of SIImole's project codes, company name, or intellectual property is strictly prohibited and
