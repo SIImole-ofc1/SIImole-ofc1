@@ -1,5 +1,5 @@
 <img width="500" height="236" alt="_ (1)" src="https://github.com/user-attachments/assets/401cff29-fc9a-4520-a5ae-4cbcad472e80" />
-
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,git,github)](https://skillicons.dev)
 ## Hello, This is SIImole's official GitHub Account!
 - 🔭 Right now work is focused around ST-SoftwareTool. -> https://st-softwaretool.pages.dev/
 - 📑 Currentky spending time learning Cyber Security and Reverse Engineering
@@ -8,4 +8,3 @@
 - 📫 You can reach us in any way possible! Our e-mail siimole.official@gmail.com. Our X/Twitter @SIImoleOFC1
 - ⚡
 <img width="736" height="244" alt="_ (2)" src="https://github.com/user-attachments/assets/0240d94f-5c4d-4716-a9e8-4707a42fa3f7" />
-  [![My Skills](https://skillicons.dev/icons?i=python,html,css,js,git,github)](https://skillicons.dev)
