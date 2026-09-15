@@ -23,4 +23,5 @@ will be prosecuted to the fullest extent of the law.
 For questions, permissions, or to report misuse of the work we do:
 siimole.official@gmail.com
 
+<img width="50" height="50" alt="Primer" src="https://github.com/user-attachments/assets/3463ec16-af17-4ac7-ab51-4cd325ef0553" />
 
