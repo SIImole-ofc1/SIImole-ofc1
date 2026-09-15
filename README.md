@@ -9,4 +9,4 @@
 - 💬 You are always wellcome in texting this e-mail address incase you have problems while using our products! -> siimole.official@gmail.com
 - 📫 You can reach us in any way possible! Our e-mail siimole.official@gmail.com. Our X/Twitter @SIImoleOFC1
 - ⚡
-<img width="600" height="600" alt="_" src="https://github.com/user-attachments/assets/1d335bbe-5f42-4574-954c-a3113ce189b5" />
+<img width="500" height="500" alt="_ (2)" src="https://github.com/user-attachments/assets/944f0534-acd2-4488-a506-4fc78cd5284a" />
