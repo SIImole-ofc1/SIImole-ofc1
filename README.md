@@ -1,7 +1,7 @@
 <img width="500" height="236" alt="_ (1)" src="https://github.com/user-attachments/assets/401cff29-fc9a-4520-a5ae-4cbcad472e80" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hello%2C+This+is+SIImole's+official+GitHub+Account!)](https://git.io/typing-svg)
-[![My Skills](https://skillicons.dev/icons?i=js,git,linux,html,css,cs,python,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,ejs,deno,github,go,ai,java,js,ruby,rust,ubuntu,html)](https://skillicons.dev)
   
 - 🔭 Right now work is focused around ST-SoftwareTool. -> https://st-softwaretool.pages.dev/
 - 📑 Currentky spending time learning Cyber Security and Reverse Engineering
