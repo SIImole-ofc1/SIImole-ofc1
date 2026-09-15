@@ -6,6 +6,6 @@
 - 📑 Currentky spending time learning Cyber Security and Reverse Engineering
 - 🦺 Any help or suggestions connected in improoving my projects are always wellcome!
 - 💬 You are always wellcome in texting this e-mail address incase you have problems while using our products! -> siimole.official@gmail.com
-- 📫 You can reach us in any way possible! Our e-mail siimole.official@gmail.com. Our X/Twitter @SIImoleOFC1
+- 📫 For business inquiries, project discussions, or technical support, contact our team directly here. Our e-mail siimole.official@gmail.com. Our X/Twitter @SIImoleOFC1
 - ⚡
 <img width="736" height="244" alt="_ (2)" src="https://github.com/user-attachments/assets/0240d94f-5c4d-4716-a9e8-4707a42fa3f7" />
