@@ -33,11 +33,3 @@ will be prosecuted to the fullest extent of the law.
   
 For questions, permissions, or to report misuse of the work we do:
 siimole.official@gmail.com
-
-<img width="50" height="50" alt="gitlogo" src="https://github.com/user-attachments/assets/aded9557-d7dd-4212-ae8e-e7bd85762a9f" />
-
-
-
-<img width="50" height="50" alt="Download Avatar, Beak, Black_ Royalty-Free Vector Graphic" src="https://github.com/user-attachments/assets/65a6d401-191a-4b8c-99d6-55e2f0e77a75" />
-
-
