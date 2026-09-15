@@ -18,7 +18,6 @@ will be prosecuted to the fullest extent of the law.
   #
   
   © 2026 SIImole. All rights reserved.
-  #
 For questions, permissions, or to report misuse of the work we do:
 siimole.official@gmail.com
 
