@@ -1,4 +1,4 @@
-<img width="60" height="60" alt="Primer" src="https://github.com/user-attachments/assets/3463ec16-af17-4ac7-ab51-4cd325ef0553" /> <img width="50" height="50" alt="Download Avatar, Beak, Black_ Royalty-Free Vector Graphic" src="https://github.com/user-attachments/assets/65a6d401-191a-4b8c-99d6-55e2f0e77a75" />
+<img width="50" height="50" alt="gitlogo" src="https://github.com/user-attachments/assets/aded9557-d7dd-4212-ae8e-e7bd85762a9f" /> <img width="50" height="50" alt="Download Avatar, Beak, Black_ Royalty-Free Vector Graphic" src="https://github.com/user-attachments/assets/65a6d401-191a-4b8c-99d6-55e2f0e77a75" />
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hello%2C+This+is+SIImole's+official+GitHub+Account!)
@@ -34,7 +34,9 @@ will be prosecuted to the fullest extent of the law.
 For questions, permissions, or to report misuse of the work we do:
 siimole.official@gmail.com
 
-<img width="50" height="50" alt="Primer" src="https://github.com/user-attachments/assets/3463ec16-af17-4ac7-ab51-4cd325ef0553" />
+<img width="50" height="50" alt="gitlogo" src="https://github.com/user-attachments/assets/aded9557-d7dd-4212-ae8e-e7bd85762a9f" />
+
+
 
 <img width="50" height="50" alt="Download Avatar, Beak, Black_ Royalty-Free Vector Graphic" src="https://github.com/user-attachments/assets/65a6d401-191a-4b8c-99d6-55e2f0e77a75" />
 
