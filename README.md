@@ -13,7 +13,6 @@
 - 📫 For business inquiries, project discussions, or technical support, contact our team directly here. Our e-mail siimole.official@gmail.com. Our X/Twitter @SIImoleOFC1
 - ⚡
 <img width="736" height="244" alt="_ (2)" src="https://github.com/user-attachments/assets/0240d94f-5c4d-4716-a9e8-4707a42fa3f7" />
-
 Unauthorized use of SIImole's project codes, company name, or intellectual property is strictly prohibited and
 will be prosecuted to the fullest extent of the law.
 
