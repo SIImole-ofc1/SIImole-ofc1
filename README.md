@@ -1,4 +1,4 @@
-<img width="600" height="338" alt="Coffee Pop" src="https://github.com/user-attachments/assets/ac8baaa6-e23f-4a4f-9c64-7dc2220c18b0" />
+<img width="300" height="169" alt="Coffee Pop" src="https://github.com/user-attachments/assets/ac8baaa6-e23f-4a4f-9c64-7dc2220c18b0" />
 <img width="500" height="236" alt="_ (1)" src="https://github.com/user-attachments/assets/401cff29-fc9a-4520-a5ae-4cbcad472e80" />
 
 
