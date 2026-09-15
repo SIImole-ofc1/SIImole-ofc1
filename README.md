@@ -13,14 +13,11 @@
 - ⚡
 <img width="736" height="244" alt="_ (2)" src="https://github.com/user-attachments/assets/0240d94f-5c4d-4716-a9e8-4707a42fa3f7" />
 
-#
-
 Unauthorized use of SIImole's project codes, company name, or intellectual property is strictly prohibited and
 will be prosecuted to the fullest extent of the law.
   #
   
   © 2026 SIImole. All rights reserved.
-  
   #
 For questions, permissions, or to report misuse of the work we do:
 siimole.official@gmail.com
