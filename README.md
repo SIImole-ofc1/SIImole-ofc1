@@ -18,11 +18,7 @@
 
 ### A bit about our company
 
-Practical, apps and tools are made by us. Antivirus and security utilities, VPN and networking tooling, desktop apps with custom UIs, file organization utilities, and web front-ends. Built to be functional and useful in real daily work. Link to our main website! https://siimole-official-website.pages.dev/
-
-### A bit about our Projects we are working on right now
-
-  ST-SoftwareTool - A terminal-powered application manager for Windows. Scan, launch, pin, and organise all your installed apps from a single command-line interface, or switch to the full GUI when you need it. ST Software Tool also includes ST-VPN and ST-AntiVirus. This project is fully free. More information can be accessed by pressing this link - https://st-softwaretool.pages.dev/
+We build practical software, antivirus and security utilities, VPN and networking tools, desktop applications with custom UIs, file organization utilities, and web front-ends, all designed to be functional and useful in everyday work. Our current focus is ST-SoftwareTool, a terminal-powered application manager for Windows that lets you scan, launch, pin, and organise all your installed apps from a single command-line interface, or switch to the full GUI when you need it, with ST-VPN and ST-AntiVirus built right in. The project is completely free, and more information on both ST-SoftwareTool and the rest of our work is available on our website.
 
 #
 
