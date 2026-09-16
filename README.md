@@ -3,8 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hello%2C+This+is+SIImole's+official+GitHub+Account!)
 ](https://git.io/typing-svg)
-<img width="500" height="236" alt="_ (1)" src="https://github.com/user-attachments/assets/401cff29-fc9a-4520-a5ae-4cbcad472e80" />
-
+<img width="500" height="236" alt="_ (1)" src="UNKNOWNbaner.gif" />
 
 ### Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=js,git,linux,html,css,cs,python,github,vscode)](https://skillicons.dev)
@@ -23,7 +22,7 @@
 
 #
 
-<img width="736" height="244" alt="_ (2)" src="https://github.com/user-attachments/assets/0240d94f-5c4d-4716-a9e8-4707a42fa3f7" />
+<img width="736" height="244" alt="_ (2)" src="LINUXclean.jpeg" />
 
 Unauthorized use of SIImole's project codes, company name, or intellectual property is strictly prohibited and
 will be prosecuted to the fullest extent of the law.
