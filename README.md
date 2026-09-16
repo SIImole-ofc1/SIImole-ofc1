@@ -12,8 +12,8 @@
 #
 
 - 🔭 Right now work is focused around ST-SoftwareTool. -> https://st-softwaretool.pages.dev/
-- 📑 Currentky spending time learning Cyber Security and Reverse Engineering
-- 🦺 Any help or suggestions connected in improoving my projects are always wellcome!
+- 📑 Currently spending time learning Cyber Security and Reverse Engineering
+- 🦺 Any help or suggestions connected in improving my projects are always welcome!
 - 📫 For business inquiries, project discussions, or technical support, contact our team directly here. Our e-mail siimole.official@gmail.com. Our X/Twitter @SIImoleOFC1
 - ⚡
 #
