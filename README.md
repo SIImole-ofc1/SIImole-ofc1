@@ -18,7 +18,7 @@
 
 ### A bit about our company
 
-We build practical software, antivirus and security utilities, VPN and networking tools, desktop applications with custom UIs, file organization utilities, and web front-ends, all designed to be functional and useful in everyday work. Our current focus is ST-SoftwareTool, a terminal-powered application manager for Windows that lets you scan, launch, pin, and organise all your installed apps from a single command-line interface, or switch to the full GUI when you need it, with ST-VPN and ST-AntiVirus built right in. The project is completely free, and more information on both ST-SoftwareTool and the rest of our work is available on our website.
+We build practical software, antivirus and security utilities, VPN and networking tools, desktop applications with custom UIs, file organization utilities, and web front-ends, all designed to be functional and useful in everyday work. Our current focus is ST-SoftwareTool, a terminal-powered application manager for Windows that lets you scan, launch, pin, and organise all your installed apps from a single command-line interface, or switch to the full GUI when you need it, with ST-VPN and ST-AntiVirus built right in. The project is completely free, and more information on both ST-SoftwareTool and the rest of our work is available on our website. https://st-softwaretool.pages.dev/
 
 #
 
