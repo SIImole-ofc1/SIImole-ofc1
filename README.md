@@ -11,14 +11,11 @@
 <br />
 
 <img width="500" height="236" alt="The Unknown" src="UNKNOWNbaner.gif" />
-
-<br /><br />
-
+<br />
 <img width="50" height="50" alt="Git logo" src="GitHubLOGO.jpg" />
 &nbsp;&nbsp;&nbsp;
 <img width="50" height="50" alt="Linux logo" src="LinuxLOGOgithub.jpg" />
-
-<br /><br />
+<br />
 
 [![Latest app](https://img.shields.io/badge/Latest%20app-ST--SoftwareTool-2ea44f?style=for-the-badge)](https://st-softwaretool.pages.dev/)
 [![Website](https://img.shields.io/badge/Website-SIImole-36BCF7?style=for-the-badge)](https://siimole-official-website.pages.dev/)
