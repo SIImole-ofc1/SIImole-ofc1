@@ -3,10 +3,6 @@
 <img src="https://github.com/user-attachments/assets/2dc95f56-5591-4eb7-944a-07a88262e1a9" alt="SIImole banner" width="100%" />
 
 <br /><br />
-<img width="50" height="50" alt="Git logo" src="GitHubLOGO.jpg" />
-&nbsp;&nbsp;&nbsp;
-<img width="50" height="50" alt="Linux logo" src="LinuxLOGOgithub.jpg" />
-<br /><br />
 
 <a href="https://siimole-official-website.pages.dev/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&height=50&lines=Hello%2C+This+is+SIImole%27s+official+GitHub+Account!" alt="Hello, This is SIImole's official GitHub Account!" />
@@ -15,6 +11,12 @@
 <br />
 
 <img width="500" height="236" alt="The Unknown" src="UNKNOWNbaner.gif" />
+
+<br /><br />
+
+<img width="50" height="50" alt="Git logo" src="GitHubLOGO.jpg" />
+&nbsp;&nbsp;&nbsp;
+<img width="50" height="50" alt="Linux logo" src="LinuxLOGOgithub.jpg" />
 
 <br /><br />
 
