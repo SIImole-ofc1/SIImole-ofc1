@@ -4,7 +4,7 @@
 
 <br /><br />
 
-<img width="50" height="50" alt="Git logo" src="GitHubLOGO.jpg" />
+<img width="50" height="50" alt="Git logo" src="GitHubLOGO.jpg" /> <img width="50" height="50" alt="Linux logo" src="LinuxLOGOgithub.jpg" />
 &nbsp;&nbsp;&nbsp;
 <img width="50" height="50" alt="Linux logo" src="LinuxLOGOgithub.jpg" />
 
