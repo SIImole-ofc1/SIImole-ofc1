@@ -22,21 +22,17 @@
 [![Email](https://img.shields.io/badge/Email-Contact%20us-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siimole.official@gmail.com)
 [![X / Twitter](https://img.shields.io/badge/@SIImoleOFC1-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SIImoleOFC1)
 
-</div>
+<br />
 
----
-
-<div align="center">
-
-## 🛠️ Languages and Tools
+### 🛠️ Languages and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=js,git,linux,html,css,cs,python,github,vscode)](https://skillicons.dev)
 
 </div>
 
----
+<br />
 
-## 🚀 What we're up to
+### 🚀 What we're up to
 
 - 🔭 **Current focus:** [ST-SoftwareTool](https://st-softwaretool.pages.dev/)
 - 📑 **Learning:** Cyber Security and Reverse Engineering
@@ -44,15 +40,15 @@
 - 🌐 **Main website:** [siimole-official-website.pages.dev](https://siimole-official-website.pages.dev/), which also includes our Privacy Policy and Terms of Use pages
 - 📫 **Contact:** for business inquiries, project discussions, or technical support, reach our team at [siimole.official@gmail.com](mailto:siimole.official@gmail.com) or [siimole.official.first@gmail.com](mailto:siimole.official.first@gmail.com)
 
----
+<br />
 
-## 🏢 A bit about our company
+### 🏢 A bit about our company
 
 We build practical software: antivirus and security utilities, VPN and networking tools, desktop applications with custom UIs, file organization utilities, and web front-ends, all designed to be functional and useful in everyday work.
 
 Our current focus is **ST-SoftwareTool**, a terminal-powered application manager for Windows. It lets you scan, launch, pin, and organise all your installed apps from a single command-line interface, or switch to the full GUI when you need it, with **ST-VPN** and **ST-AntiVirus** built right in. The project is completely free, and more information on ST-SoftwareTool and the rest of our work is available on our website: **[st-softwaretool.pages.dev](https://st-softwaretool.pages.dev/)**
 
----
+<br />
 
 <div align="center">
 
