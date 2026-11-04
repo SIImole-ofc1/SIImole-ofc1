@@ -1,4 +1,5 @@
 <img width="50" height="50" alt="gitlogo" src="GitHubLOGO.jpg" /> <img width="50" height="50" alt="Download Avatar, Beak, Black_ Royalty-Free Vector Graphic" src="LinuxLOGOgithub.jpg" />
+![Uploading Github_Readme_banner.jpg…]()
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hello%2C+This+is+SIImole's+official+GitHub+Account!)
 ](https://git.io/typing-svg)
