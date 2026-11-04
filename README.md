@@ -11,7 +11,7 @@
 <br /><br />
 
 <a href="https://siimole-official-website.pages.dev/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hello%2C+This+is+SIImole%27s+official+GitHub+Account!" alt="Hello, This is SIImole's official GitHub Account!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&height=50&lines=Hello%2C+This+is+SIImole%27s+official+GitHub+Account!" alt="Hello, This is SIImole's official GitHub Account!" />
 </a>
 
 <br />
@@ -22,8 +22,8 @@
 
 [![Latest app](https://img.shields.io/badge/Latest%20app-ST--SoftwareTool-2ea44f?style=for-the-badge)](https://st-softwaretool.pages.dev/)
 [![Website](https://img.shields.io/badge/Website-SIImole-36BCF7?style=for-the-badge)](https://siimole-official-website.pages.dev/)
-[![X / Twitter](https://img.shields.io/badge/X-@SIImoleOFC1-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SIImoleOFC1)
 [![Email](https://img.shields.io/badge/Email-Contact%20us-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siimole.official@gmail.com)
+[![X / Twitter](https://img.shields.io/badge/@SIImoleOFC1-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SIImoleOFC1)
 
 </div>
 
