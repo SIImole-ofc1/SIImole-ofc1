@@ -22,7 +22,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact%20us-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siimole.official@gmail.com)
 [![X / Twitter](https://img.shields.io/badge/@SIImoleOFC1-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SIImoleOFC1)
 
-<br />
+---
 
 ### 🛠️ Languages and Tools
 
@@ -30,7 +30,7 @@
 
 </div>
 
-<br />
+---
 
 ### 🚀 What we're up to
 
@@ -40,7 +40,7 @@
 - 🌐 **Main website:** [siimole-official-website.pages.dev](https://siimole-official-website.pages.dev/), which also includes our Privacy Policy and Terms of Use pages
 - 📫 **Contact:** for business inquiries, project discussions, or technical support, reach our team at [siimole.official@gmail.com](mailto:siimole.official@gmail.com) or [siimole.official.first@gmail.com](mailto:siimole.official.first@gmail.com)
 
-<br />
+---
 
 ### 🏢 A bit about our company
 
@@ -48,7 +48,7 @@ We build practical software: antivirus and security utilities, VPN and networkin
 
 Our current focus is **ST-SoftwareTool**, a terminal-powered application manager for Windows. It lets you scan, launch, pin, and organise all your installed apps from a single command-line interface, or switch to the full GUI when you need it, with **ST-VPN** and **ST-AntiVirus** built right in. The project is completely free, and more information on ST-SoftwareTool and the rest of our work is available on our website: **[st-softwaretool.pages.dev](https://st-softwaretool.pages.dev/)**
 
-<br />
+---
 
 <div align="center">
 
@@ -60,7 +60,7 @@ Our current focus is **ST-SoftwareTool**, a terminal-powered application manager
 
 <br />
 
-© 2026 SIImole. All rights reserved.
+![Copyright](https://img.shields.io/badge/%C2%A9%202026%20SIImole.%20All%20rights%20reserved.-FFFFFF?style=for-the-badge)
 
 For questions, permissions, or to report misuse of our work, contact us at<br />
 [siimole.official@gmail.com](mailto:siimole.official@gmail.com) · [siimole.official.first@gmail.com](mailto:siimole.official.first@gmail.com)
