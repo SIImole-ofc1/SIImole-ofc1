@@ -3,11 +3,9 @@
 <img src="https://github.com/user-attachments/assets/2dc95f56-5591-4eb7-944a-07a88262e1a9" alt="SIImole banner" width="100%" />
 
 <br /><br />
-
-<img width="50" height="50" alt="Git logo" src="GitHubLOGO.jpg" /> <img width="50" height="50" alt="Linux logo" src="LinuxLOGOgithub.jpg" />
+<img width="50" height="50" alt="Git logo" src="GitHubLOGO.jpg" />
 &nbsp;&nbsp;&nbsp;
 <img width="50" height="50" alt="Linux logo" src="LinuxLOGOgithub.jpg" />
-
 <br /><br />
 
 <a href="https://siimole-official-website.pages.dev/">
