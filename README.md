@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/2dc95f56-5591-4eb7-944a-07a88262e1a9" alt="SIImole banner" width="100%" />
+<img width="5824" height="2936" alt="GITHUBbannerSPACE" src="https://github.com/user-attachments/assets/1fec179e-cb79-4029-8f95-cb2ecb9279cd" />
+
 
 <br /><br />
 
